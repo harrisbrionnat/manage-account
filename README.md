@@ -32,7 +32,7 @@ This tutorial outlines how one would disable user accounts, reset a user's passw
 
 <p>
   <h3
-    ><b> Disabling a User Account/b>
+    <b> Disabling a User Account</b>
   </h3>
   <br>
   <br>
