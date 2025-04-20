@@ -36,11 +36,21 @@ This tutorial outlines how one would disable user accounts, reset a user's passw
   </h3>
   <br>
   <br>
-1. Navigate to <b>Active Directory Users and Computers<b/>. Right click the domain. Click 'Find'. Type in the name of a user. Right-click the user and click 'disable account'.
+Navigate to <b>Active Directory Users and Computers<b/>. Right click the domain. Click 'Find'. Type in the name of a user. Right-click the user and click 'disable account'.
    <p>
 <img src="https://imgur.com/UrDI5XU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-     <p>
-<img src="https://imgur.com/Te34GwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <br>
+  <p>
+  <h3
+    <b> Reset a User's Password</b>
+  </h3>
+  <br>
+  <br>
+Navigate to <b>Active Directory Users and Computers<b/>. Right click the domain. Click 'Find'. Type in the name of a user. Right-click the user and click 'reset password'.
+   <p>
+<img src="https://imgur.com/HZlmray.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
   <br>
