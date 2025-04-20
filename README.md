@@ -27,18 +27,18 @@ This tutorial outlines how one would disable user accounts, reset a user's passw
 - Create an account lockout policy
 - Observe logs for Active Directory Users
 
-  <h2>Deployment and Configuration Steps</h2>
+
 
 
 <p>
   <h3
-    ><b> Creating a 'Sales' Group</b>
+    ><b> Disabling a User Account/b>
   </h3>
   <br>
   <br>
-1. Create an OU called 'Sales' in <b>Active Directory Users and Computers<b/>. Right click and click 'New' and choose 'Group'. Call the groups 'SalesGroup'. The scope will be 'Global and the type will be 'Security Groups'. Add some users to the OU 'Sales'.
+1. Navigate to <b>Active Directory Users and Computers<b/>. Right click the domain. Click 'Find'. Type in the name of a user. Right-click the user and click 'disable account'.
    <p>
-<img src="https://imgur.com/PU5Tohl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UrDI5XU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
      <p>
 <img src="https://imgur.com/Te34GwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
