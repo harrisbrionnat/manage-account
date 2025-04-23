@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Disabling Accounts, Resetting Passwords and Observing Logs in Active Directory</h1>
+<h1>Disabling, Unlocking and , Resetting Passwords  in Active Directory</h1>
 This tutorial outlines how one would disable user accounts, reset a user's password and observe logs within Active Directory.<br />
 
 
