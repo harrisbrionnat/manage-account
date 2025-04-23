@@ -24,7 +24,8 @@ This tutorial outlines how one would disable user accounts, reset a user's passw
 
 - Disable a user's account
 - Reset a user's password
-- Observe logs for Active Directory Users
+- Delete a user's account
+- 
 
 
 
