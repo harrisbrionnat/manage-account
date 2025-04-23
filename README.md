@@ -25,7 +25,7 @@ This tutorial outlines how one would disable user accounts, reset a user's passw
 - Disable a user's account
 - Reset a user's password
 - Delete a user's account
-- 
+- Unlock a user's account
 
 
 
@@ -55,5 +55,31 @@ Navigate to <b>Active Directory Users and Computers<b/>. Right click the domain.
 
   <br>
   <p>
+   <br>
+  <p>
+  <h3
+    <b> Delete a User's Password</b>
+  </h3>
+  <br>
+  <br>
+Navigate to <b>Active Directory Users and Computers<b/>. Right click the domain. Click 'Find'. Type in the name of a user. Right-click the user and click 'delete'.
+   <p>
+<img src="https://imgur.com/OmSKun5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+  <h3
+    <b> Delete a User's Password</b>
+  </h3>
+  <br>
+  <br>
+Attempt to login into a user's account with the wrong password 4 times. The account will become locked. Log into an admin account. Go to the domain controller and log in as an admin. Go to Active Directory Users and Computers. on the domain, right click and select 'Find. Type in the user's name, Right click on 'Properties' check the box to unlock the account.
+   <p>
+<img src="https://imgur.com/mlu3NSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+  <br>
+  <p>
+   
+ 
    
  
